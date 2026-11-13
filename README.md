@@ -1,7 +1,11 @@
 # uk-inflation-research
 Can we predict UK inflation based on lagged data?
-Data from ONS that is then cleaned and processsed, with ML techniques applied to it
+
+Data from ONS that is then cleaned and processsed, with ML techniques applied to it.
+
 Use pip install -r requirements.txt for the necessary dependencies
+
+Virtual environment set up by python3 -m venv .venv then source .venv/bin/activate to activate it
 
 Repo structure:
 
